@@ -8,6 +8,14 @@
 #include "MouseHoverEvent.h"
 #include "TextField.h"
 #include "Button.h"
+//1、可以考虑加入第三方库 供用户使用
+//2、架构方面的问题
+//1)进行事件分离
+//2)渲染布局
+//3)写一个自动析构指针的类
+//4)既然是moe就要二次元的特点
+//5)
+
 
 
 int main() {
